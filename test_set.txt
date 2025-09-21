@@ -1,0 +1,1505 @@
+path|label
+D:\swin transformer3\soybean\grey spot\grey spot_0649.png|0
+D:\swin transformer3\soybean\healthy\healthy_0723.png|1
+D:\swin transformer3\soybean\macular\macular_1820.png|2
+D:\swin transformer3\soybean\macular\macular_2431.png|2
+D:\swin transformer3\soybean\macular\macular_1318.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0846.png|3
+D:\swin transformer3\soybean\macular\macular_0905.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0992.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1767.png|3
+D:\swin transformer3\soybean\macular\macular_2540.png|2
+D:\swin transformer3\soybean\macular\macular_0859.png|2
+D:\swin transformer3\soybean\macular\macular_1751.png|2
+D:\swin transformer3\soybean\macular\macular_1822.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0835.png|3
+D:\swin transformer3\soybean\macular\macular_0223.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1017.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1328.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0768.png|3
+D:\swin transformer3\soybean\healthy\healthy_0020.jpg|1
+D:\swin transformer3\soybean\grey spot\grey spot_1087.png|0
+D:\swin transformer3\soybean\macular\macular_2353.png|2
+D:\swin transformer3\soybean\macular\macular_1326.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1765.png|3
+D:\swin transformer3\soybean\macular\macular_1278.png|2
+D:\swin transformer3\soybean\healthy\healthy_0449.png|1
+D:\swin transformer3\soybean\macular\macular_0836.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1743.png|0
+D:\swin transformer3\soybean\macular\macular_1099.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0749.png|0
+D:\swin transformer3\soybean\macular\macular_1557.png|2
+D:\swin transformer3\soybean\macular\macular_2424.png|2
+D:\swin transformer3\soybean\macular\macular_1953.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0017.jpg|3
+D:\swin transformer3\soybean\macular\macular_1378.png|2
+D:\swin transformer3\soybean\macular\macular_1775.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0838.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1995.png|3
+D:\swin transformer3\soybean\macular\macular_1237.png|2
+D:\swin transformer3\soybean\macular\macular_1151.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1779.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0384.png|3
+D:\swin transformer3\soybean\macular\macular_2468.png|2
+D:\swin transformer3\soybean\macular\macular_0670.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0220.png|0
+D:\swin transformer3\soybean\healthy\healthy_0361.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1298.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0847.png|3
+D:\swin transformer3\soybean\macular\macular_1105.png|2
+D:\swin transformer3\soybean\healthy\healthy_0424.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0113.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0848.png|3
+D:\swin transformer3\soybean\healthy\healthy_0776.png|1
+D:\swin transformer3\soybean\macular\macular_0494.png|2
+D:\swin transformer3\soybean\macular\macular_1258.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1242.png|0
+D:\swin transformer3\soybean\macular\macular_1348.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0088.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1351.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0952.png|0
+D:\swin transformer3\soybean\macular\macular_2333.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1307.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0580.png|3
+D:\swin transformer3\soybean\macular\macular_1440.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0002.jpg|0
+D:\swin transformer3\soybean\mosaic\mosaic_1558.png|3
+D:\swin transformer3\soybean\healthy\healthy_0552.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0036.jpg|3
+D:\swin transformer3\soybean\mosaic\mosaic_0045.png|3
+D:\swin transformer3\soybean\macular\macular_0730.png|2
+D:\swin transformer3\soybean\macular\macular_1876.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0021.jpg|0
+D:\swin transformer3\soybean\healthy\healthy_0420.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0700.png|0
+D:\swin transformer3\soybean\healthy\healthy_0502.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0162.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1013.png|3
+D:\swin transformer3\soybean\macular\macular_1750.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1460.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1225.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0247.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1346.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0710.png|3
+D:\swin transformer3\soybean\macular\macular_1299.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1049.png|3
+D:\swin transformer3\soybean\healthy\healthy_0133.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0392.png|0
+D:\swin transformer3\soybean\macular\macular_1857.png|2
+D:\swin transformer3\soybean\macular\macular_1968.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1434.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1948.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0881.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1148.png|3
+D:\swin transformer3\soybean\healthy\healthy_0520.png|1
+D:\swin transformer3\soybean\macular\macular_2358.png|2
+D:\swin transformer3\soybean\macular\macular_2196.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1011.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0164.png|3
+D:\swin transformer3\soybean\macular\macular_1234.png|2
+D:\swin transformer3\soybean\macular\macular_1321.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0989.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0398.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0438.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1966.png|3
+D:\swin transformer3\soybean\macular\macular_1178.png|2
+D:\swin transformer3\soybean\healthy\healthy_0313.png|1
+D:\swin transformer3\soybean\macular\macular_1592.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1292.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0245.png|3
+D:\swin transformer3\soybean\healthy\healthy_0530.png|1
+D:\swin transformer3\soybean\healthy\healthy_0375.png|1
+D:\swin transformer3\soybean\healthy\healthy_0524.png|1
+D:\swin transformer3\soybean\macular\macular_0959.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1021.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0743.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1479.png|0
+D:\swin transformer3\soybean\macular\macular_2168.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0379.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1204.png|3
+D:\swin transformer3\soybean\macular\macular_1575.png|2
+D:\swin transformer3\soybean\healthy\healthy_0904.png|1
+D:\swin transformer3\soybean\macular\macular_0968.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0569.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0147.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0861.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0871.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0493.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1560.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0009.jpg|0
+D:\swin transformer3\soybean\mosaic\mosaic_0064.png|3
+D:\swin transformer3\soybean\macular\macular_1794.png|2
+D:\swin transformer3\soybean\macular\macular_0934.png|2
+D:\swin transformer3\soybean\macular\macular_1160.png|2
+D:\swin transformer3\soybean\macular\macular_0966.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1181.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0607.png|3
+D:\swin transformer3\soybean\macular\macular_0245.png|2
+D:\swin transformer3\soybean\macular\macular_2179.png|2
+D:\swin transformer3\soybean\macular\macular_2091.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0203.png|0
+D:\swin transformer3\soybean\macular\macular_2141.png|2
+D:\swin transformer3\soybean\healthy\healthy_0750.png|1
+D:\swin transformer3\soybean\macular\macular_2074.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0228.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1699.png|0
+D:\swin transformer3\soybean\macular\macular_2512.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0099.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0639.png|3
+D:\swin transformer3\soybean\healthy\healthy_0695.png|1
+D:\swin transformer3\soybean\macular\macular_2546.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0288.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1727.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1675.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1904.png|3
+D:\swin transformer3\soybean\healthy\healthy_0204.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0493.png|0
+D:\swin transformer3\soybean\macular\macular_2204.png|2
+D:\swin transformer3\soybean\macular\macular_0338.png|2
+D:\swin transformer3\soybean\macular\macular_1678.png|2
+D:\swin transformer3\soybean\macular\macular_1997.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0531.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2023.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1249.png|0
+D:\swin transformer3\soybean\macular\macular_0640.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0630.png|3
+D:\swin transformer3\soybean\macular\macular_1279.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1370.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0298.png|3
+D:\swin transformer3\soybean\macular\macular_0724.png|2
+D:\swin transformer3\soybean\macular\macular_0365.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0386.png|0
+D:\swin transformer3\soybean\healthy\healthy_0250.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0752.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0711.png|3
+D:\swin transformer3\soybean\macular\macular_1711.png|2
+D:\swin transformer3\soybean\healthy\healthy_0335.png|1
+D:\swin transformer3\soybean\macular\macular_0281.png|2
+D:\swin transformer3\soybean\healthy\healthy_0594.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1357.png|3
+D:\swin transformer3\soybean\macular\macular_1529.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1052.png|0
+D:\swin transformer3\soybean\macular\macular_0483.png|2
+D:\swin transformer3\soybean\healthy\healthy_0620.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0643.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0289.png|0
+D:\swin transformer3\soybean\healthy\healthy_0966.png|1
+D:\swin transformer3\soybean\healthy\healthy_0163.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1723.png|0
+D:\swin transformer3\soybean\macular\macular_1300.png|2
+D:\swin transformer3\soybean\macular\macular_0780.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1112.png|3
+D:\swin transformer3\soybean\healthy\healthy_0693.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0471.png|3
+D:\swin transformer3\soybean\healthy\healthy_0305.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1817.png|0
+D:\swin transformer3\soybean\macular\macular_0701.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0818.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0483.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1642.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1046.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0608.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0480.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0962.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0808.png|3
+D:\swin transformer3\soybean\macular\macular_1250.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0640.png|0
+D:\swin transformer3\soybean\healthy\healthy_0513.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1700.png|0
+D:\swin transformer3\soybean\macular\macular_0098.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0638.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0065.png|0
+D:\swin transformer3\soybean\macular\macular_1999.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1195.png|3
+D:\swin transformer3\soybean\healthy\healthy_0817.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0720.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0778.png|3
+D:\swin transformer3\soybean\macular\macular_2475.png|2
+D:\swin transformer3\soybean\macular\macular_0265.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1815.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1572.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0917.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2015.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0559.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0688.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1728.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0278.png|3
+D:\swin transformer3\soybean\healthy\healthy_0268.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0187.png|3
+D:\swin transformer3\soybean\macular\macular_0573.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1832.png|0
+D:\swin transformer3\soybean\macular\macular_1754.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1012.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0407.png|0
+D:\swin transformer3\soybean\healthy\healthy_0312.png|1
+D:\swin transformer3\soybean\healthy\healthy_0242.png|1
+D:\swin transformer3\soybean\macular\macular_0774.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0316.png|3
+D:\swin transformer3\soybean\macular\macular_1055.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0578.png|3
+D:\swin transformer3\soybean\macular\macular_1357.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0718.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0810.png|3
+D:\swin transformer3\soybean\macular\macular_0856.png|2
+D:\swin transformer3\soybean\macular\macular_0593.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0642.png|0
+D:\swin transformer3\soybean\macular\macular_0406.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1599.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0926.png|3
+D:\swin transformer3\soybean\macular\macular_0988.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0767.png|0
+D:\swin transformer3\soybean\healthy\healthy_0084.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1834.png|3
+D:\swin transformer3\soybean\macular\macular_1126.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1637.png|3
+D:\swin transformer3\soybean\macular\macular_2121.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1061.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1440.png|0
+D:\swin transformer3\soybean\macular\macular_1464.png|2
+D:\swin transformer3\soybean\macular\macular_0688.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1790.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1972.png|3
+D:\swin transformer3\soybean\healthy\healthy_0853.png|1
+D:\swin transformer3\soybean\macular\macular_1302.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0341.png|3
+D:\swin transformer3\soybean\macular\macular_1899.png|2
+D:\swin transformer3\soybean\healthy\healthy_0825.png|1
+D:\swin transformer3\soybean\healthy\healthy_0185.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1140.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0589.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0923.png|3
+D:\swin transformer3\soybean\macular\macular_0695.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1550.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0609.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1307.png|3
+D:\swin transformer3\soybean\healthy\healthy_0844.png|1
+D:\swin transformer3\soybean\macular\macular_2038.png|2
+D:\swin transformer3\soybean\macular\macular_2450.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1932.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1268.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0687.png|0
+D:\swin transformer3\soybean\healthy\healthy_0752.png|1
+D:\swin transformer3\soybean\macular\macular_2294.png|2
+D:\swin transformer3\soybean\macular\macular_1848.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1737.png|0
+D:\swin transformer3\soybean\macular\macular_1904.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1686.png|0
+D:\swin transformer3\soybean\macular\macular_0943.png|2
+D:\swin transformer3\soybean\macular\macular_0982.png|2
+D:\swin transformer3\soybean\macular\macular_1133.png|2
+D:\swin transformer3\soybean\healthy\healthy_0637.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0129.png|3
+D:\swin transformer3\soybean\macular\macular_0384.png|2
+D:\swin transformer3\soybean\healthy\healthy_0332.png|1
+D:\swin transformer3\soybean\healthy\healthy_0532.png|1
+D:\swin transformer3\soybean\macular\macular_1800.png|2
+D:\swin transformer3\soybean\macular\macular_2114.png|2
+D:\swin transformer3\soybean\macular\macular_0772.png|2
+D:\swin transformer3\soybean\macular\macular_1969.png|2
+D:\swin transformer3\soybean\macular\macular_1092.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_2135.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1732.png|0
+D:\swin transformer3\soybean\healthy\healthy_0812.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1674.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0148.png|3
+D:\swin transformer3\soybean\macular\macular_0575.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1446.png|0
+D:\swin transformer3\soybean\healthy\healthy_0126.png|1
+D:\swin transformer3\soybean\macular\macular_1474.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0845.png|3
+D:\swin transformer3\soybean\healthy\healthy_0866.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0317.png|3
+D:\swin transformer3\soybean\healthy\healthy_0130.png|1
+D:\swin transformer3\soybean\healthy\healthy_0562.png|1
+D:\swin transformer3\soybean\macular\macular_1338.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0182.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0423.png|3
+D:\swin transformer3\soybean\macular\macular_2337.png|2
+D:\swin transformer3\soybean\macular\macular_0820.png|2
+D:\swin transformer3\soybean\healthy\healthy_0599.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1702.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0582.png|3
+D:\swin transformer3\soybean\macular\macular_0555.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0185.png|3
+D:\swin transformer3\soybean\macular\macular_1839.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0253.png|3
+D:\swin transformer3\soybean\macular\macular_0227.png|2
+D:\swin transformer3\soybean\macular\macular_0980.png|2
+D:\swin transformer3\soybean\macular\macular_1065.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1358.png|3
+D:\swin transformer3\soybean\macular\macular_1479.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0979.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1072.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0776.png|0
+D:\swin transformer3\soybean\macular\macular_1430.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1334.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0410.png|3
+D:\swin transformer3\soybean\macular\macular_0307.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1788.png|0
+D:\swin transformer3\soybean\macular\macular_0359.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1961.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0495.png|3
+D:\swin transformer3\soybean\macular\macular_1905.png|2
+D:\swin transformer3\soybean\macular\macular_0210.png|2
+D:\swin transformer3\soybean\healthy\healthy_0837.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1935.png|3
+D:\swin transformer3\soybean\healthy\healthy_0537.png|1
+D:\swin transformer3\soybean\healthy\healthy_0367.png|1
+D:\swin transformer3\soybean\macular\macular_1242.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1388.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0442.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0027.jpg|3
+D:\swin transformer3\soybean\mosaic\mosaic_1631.png|3
+D:\swin transformer3\soybean\macular\macular_1290.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1398.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1811.png|3
+D:\swin transformer3\soybean\healthy\healthy_0732.png|1
+D:\swin transformer3\soybean\macular\macular_2382.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0841.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1107.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1257.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1045.png|0
+D:\swin transformer3\soybean\macular\macular_1561.png|2
+D:\swin transformer3\soybean\macular\macular_0456.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0806.png|0
+D:\swin transformer3\soybean\macular\macular_2212.png|2
+D:\swin transformer3\soybean\macular\macular_2089.png|2
+D:\swin transformer3\soybean\healthy\healthy_0151.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0421.png|3
+D:\swin transformer3\soybean\healthy\healthy_0295.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0485.png|0
+D:\swin transformer3\soybean\macular\macular_0383.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1301.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1860.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0489.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0393.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0965.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0336.png|3
+D:\swin transformer3\soybean\macular\macular_2308.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1861.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0461.png|3
+D:\swin transformer3\soybean\macular\macular_1843.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1022.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0400.png|3
+D:\swin transformer3\soybean\macular\macular_0845.png|2
+D:\swin transformer3\soybean\macular\macular_1573.png|2
+D:\swin transformer3\soybean\macular\macular_0787.png|2
+D:\swin transformer3\soybean\macular\macular_1432.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0575.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0930.png|0
+D:\swin transformer3\soybean\healthy\healthy_0631.png|1
+D:\swin transformer3\soybean\macular\macular_1983.png|2
+D:\swin transformer3\soybean\macular\macular_0001.jpg|2
+D:\swin transformer3\soybean\healthy\healthy_0198.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1858.png|3
+D:\swin transformer3\soybean\macular\macular_0174.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1226.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1509.png|0
+D:\swin transformer3\soybean\macular\macular_1531.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1796.png|3
+D:\swin transformer3\soybean\macular\macular_2080.png|2
+D:\swin transformer3\soybean\healthy\healthy_0428.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_2017.png|3
+D:\swin transformer3\soybean\macular\macular_1574.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0726.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0606.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1611.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1127.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0444.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0208.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1225.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1496.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1500.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1208.png|0
+D:\swin transformer3\soybean\macular\macular_2414.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1130.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0318.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0796.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0135.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0217.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1700.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0188.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1610.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0285.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1711.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1734.png|0
+D:\swin transformer3\soybean\macular\macular_2502.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1826.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0565.png|0
+D:\swin transformer3\soybean\macular\macular_0611.png|2
+D:\swin transformer3\soybean\healthy\healthy_0059.png|1
+D:\swin transformer3\soybean\macular\macular_1315.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1742.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0795.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1764.png|0
+D:\swin transformer3\soybean\healthy\healthy_0206.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1195.png|0
+D:\swin transformer3\soybean\macular\macular_0529.png|2
+D:\swin transformer3\soybean\macular\macular_1153.png|2
+D:\swin transformer3\soybean\macular\macular_1812.png|2
+D:\swin transformer3\soybean\macular\macular_2258.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1597.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1742.png|0
+D:\swin transformer3\soybean\macular\macular_0300.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1498.png|0
+D:\swin transformer3\soybean\healthy\healthy_0371.png|1
+D:\swin transformer3\soybean\macular\macular_1688.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0453.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1033.png|3
+D:\swin transformer3\soybean\healthy\healthy_0617.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1017.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1283.png|0
+D:\swin transformer3\soybean\macular\macular_0424.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0130.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1658.png|3
+D:\swin transformer3\soybean\healthy\healthy_0021.jpg|1
+D:\swin transformer3\soybean\mosaic\mosaic_0163.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1216.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0431.png|3
+D:\swin transformer3\soybean\macular\macular_2401.png|2
+D:\swin transformer3\soybean\macular\macular_1106.png|2
+D:\swin transformer3\soybean\healthy\healthy_0914.png|1
+D:\swin transformer3\soybean\macular\macular_1684.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0674.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0470.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_2064.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1397.png|0
+D:\swin transformer3\soybean\macular\macular_0907.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0527.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2054.png|3
+D:\swin transformer3\soybean\macular\macular_0198.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0879.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0152.png|0
+D:\swin transformer3\soybean\macular\macular_0542.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1372.png|0
+D:\swin transformer3\soybean\macular\macular_0520.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0346.png|0
+D:\swin transformer3\soybean\macular\macular_0659.png|2
+D:\swin transformer3\soybean\macular\macular_0344.png|2
+D:\swin transformer3\soybean\healthy\healthy_0687.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0190.png|3
+D:\swin transformer3\soybean\macular\macular_2261.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1534.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1166.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1184.png|3
+D:\swin transformer3\soybean\healthy\healthy_0156.png|1
+D:\swin transformer3\soybean\macular\macular_0990.png|2
+D:\swin transformer3\soybean\macular\macular_1337.png|2
+D:\swin transformer3\soybean\healthy\healthy_0794.png|1
+D:\swin transformer3\soybean\macular\macular_2127.png|2
+D:\swin transformer3\soybean\macular\macular_1987.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1486.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0770.png|0
+D:\swin transformer3\soybean\healthy\healthy_0516.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0294.png|0
+D:\swin transformer3\soybean\macular\macular_0662.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1172.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1785.png|0
+D:\swin transformer3\soybean\macular\macular_0848.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1379.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1908.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0953.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1317.png|3
+D:\swin transformer3\soybean\healthy\healthy_0276.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0795.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1762.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2078.png|3
+D:\swin transformer3\soybean\healthy\healthy_0857.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1171.png|3
+D:\swin transformer3\soybean\healthy\healthy_0093.png|1
+D:\swin transformer3\soybean\macular\macular_2456.png|2
+D:\swin transformer3\soybean\macular\macular_1214.png|2
+D:\swin transformer3\soybean\macular\macular_1538.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1911.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0464.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1444.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1097.png|3
+D:\swin transformer3\soybean\healthy\healthy_0121.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1205.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2104.png|3
+D:\swin transformer3\soybean\macular\macular_1815.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0141.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1480.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0685.png|3
+D:\swin transformer3\soybean\macular\macular_0460.png|2
+D:\swin transformer3\soybean\macular\macular_1842.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1874.png|3
+D:\swin transformer3\soybean\macular\macular_2471.png|2
+D:\swin transformer3\soybean\healthy\healthy_0578.png|1
+D:\swin transformer3\soybean\macular\macular_1503.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1486.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1554.png|3
+D:\swin transformer3\soybean\macular\macular_2548.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1910.png|3
+D:\swin transformer3\soybean\healthy\healthy_0490.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0403.png|0
+D:\swin transformer3\soybean\macular\macular_0551.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0710.png|0
+D:\swin transformer3\soybean\macular\macular_0105.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0566.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1809.png|3
+D:\swin transformer3\soybean\macular\macular_1851.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1582.png|3
+D:\swin transformer3\soybean\healthy\healthy_0755.png|1
+D:\swin transformer3\soybean\macular\macular_2124.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1943.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0153.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1882.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0510.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0618.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0447.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0396.png|3
+D:\swin transformer3\soybean\healthy\healthy_0685.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1136.png|0
+D:\swin transformer3\soybean\healthy\healthy_0309.png|1
+D:\swin transformer3\soybean\healthy\healthy_0117.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1057.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0918.png|3
+D:\swin transformer3\soybean\macular\macular_1086.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0780.png|0
+D:\swin transformer3\soybean\macular\macular_1381.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1363.png|3
+D:\swin transformer3\soybean\healthy\healthy_0797.png|1
+D:\swin transformer3\soybean\macular\macular_1071.png|2
+D:\swin transformer3\soybean\macular\macular_2459.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0284.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0613.png|0
+D:\swin transformer3\soybean\macular\macular_2191.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1128.png|3
+D:\swin transformer3\soybean\macular\macular_0468.png|2
+D:\swin transformer3\soybean\healthy\healthy_0714.png|1
+D:\swin transformer3\soybean\macular\macular_2544.png|2
+D:\swin transformer3\soybean\healthy\healthy_0862.png|1
+D:\swin transformer3\soybean\macular\macular_0183.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1463.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0468.png|3
+D:\swin transformer3\soybean\macular\macular_1284.png|2
+D:\swin transformer3\soybean\healthy\healthy_0353.png|1
+D:\swin transformer3\soybean\macular\macular_1144.png|2
+D:\swin transformer3\soybean\healthy\healthy_0122.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0440.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0798.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0955.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1701.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1391.png|0
+D:\swin transformer3\soybean\macular\macular_2365.png|2
+D:\swin transformer3\soybean\healthy\healthy_0549.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1162.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1311.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0043.jpg|3
+D:\swin transformer3\soybean\macular\macular_0553.png|2
+D:\swin transformer3\soybean\macular\macular_0728.png|2
+D:\swin transformer3\soybean\healthy\healthy_0237.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1452.png|0
+D:\swin transformer3\soybean\macular\macular_0041.jpg|2
+D:\swin transformer3\soybean\mosaic\mosaic_1188.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1460.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0144.png|0
+D:\swin transformer3\soybean\healthy\healthy_0873.png|1
+D:\swin transformer3\soybean\healthy\healthy_0608.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1398.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1530.png|0
+D:\swin transformer3\soybean\macular\macular_2239.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0404.png|0
+D:\swin transformer3\soybean\macular\macular_1142.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0897.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0254.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0206.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0270.png|0
+D:\swin transformer3\soybean\macular\macular_1328.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0932.png|3
+D:\swin transformer3\soybean\macular\macular_1902.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0306.png|3
+D:\swin transformer3\soybean\macular\macular_0341.png|2
+D:\swin transformer3\soybean\macular\macular_0443.png|2
+D:\swin transformer3\soybean\macular\macular_1385.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1789.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1120.png|3
+D:\swin transformer3\soybean\macular\macular_1416.png|2
+D:\swin transformer3\soybean\macular\macular_1702.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0936.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0832.png|0
+D:\swin transformer3\soybean\macular\macular_0833.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1516.png|0
+D:\swin transformer3\soybean\macular\macular_0786.png|2
+D:\swin transformer3\soybean\macular\macular_2289.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0465.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0441.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0195.png|3
+D:\swin transformer3\soybean\macular\macular_0576.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0401.png|0
+D:\swin transformer3\soybean\macular\macular_1564.png|2
+D:\swin transformer3\soybean\healthy\healthy_0897.png|1
+D:\swin transformer3\soybean\healthy\healthy_0478.png|1
+D:\swin transformer3\soybean\macular\macular_1660.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_2109.png|3
+D:\swin transformer3\soybean\healthy\healthy_0184.png|1
+D:\swin transformer3\soybean\healthy\healthy_0632.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0564.png|0
+D:\swin transformer3\soybean\macular\macular_0165.png|2
+D:\swin transformer3\soybean\macular\macular_0911.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1639.png|0
+D:\swin transformer3\soybean\macular\macular_0194.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_2100.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0122.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1324.png|3
+D:\swin transformer3\soybean\macular\macular_1629.png|2
+D:\swin transformer3\soybean\macular\macular_0924.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1444.png|0
+D:\swin transformer3\soybean\macular\macular_1304.png|2
+D:\swin transformer3\soybean\macular\macular_2427.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0161.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0375.png|3
+D:\swin transformer3\soybean\macular\macular_2534.png|2
+D:\swin transformer3\soybean\macular\macular_0179.png|2
+D:\swin transformer3\soybean\healthy\healthy_0733.png|1
+D:\swin transformer3\soybean\macular\macular_1388.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1016.png|3
+D:\swin transformer3\soybean\macular\macular_0855.png|2
+D:\swin transformer3\soybean\macular\macular_2106.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1782.png|3
+D:\swin transformer3\soybean\macular\macular_0797.png|2
+D:\swin transformer3\soybean\healthy\healthy_0246.png|1
+D:\swin transformer3\soybean\macular\macular_1831.png|2
+D:\swin transformer3\soybean\macular\macular_0563.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1124.png|0
+D:\swin transformer3\soybean\macular\macular_0262.png|2
+D:\swin transformer3\soybean\macular\macular_0371.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1682.png|3
+D:\swin transformer3\soybean\macular\macular_1456.png|2
+D:\swin transformer3\soybean\macular\macular_0981.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0332.png|3
+D:\swin transformer3\soybean\macular\macular_2268.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1105.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1134.png|3
+D:\swin transformer3\soybean\macular\macular_0318.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1132.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0556.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0030.jpg|3
+D:\swin transformer3\soybean\macular\macular_0404.png|2
+D:\swin transformer3\soybean\macular\macular_2175.png|2
+D:\swin transformer3\soybean\macular\macular_0156.png|2
+D:\swin transformer3\soybean\macular\macular_0083.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0521.png|0
+D:\swin transformer3\soybean\macular\macular_2434.png|2
+D:\swin transformer3\soybean\healthy\healthy_0087.png|1
+D:\swin transformer3\soybean\macular\macular_0930.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0022.jpg|0
+D:\swin transformer3\soybean\macular\macular_1467.png|2
+D:\swin transformer3\soybean\macular\macular_1054.png|2
+D:\swin transformer3\soybean\healthy\healthy_0556.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0456.png|0
+D:\swin transformer3\soybean\macular\macular_2197.png|2
+D:\swin transformer3\soybean\macular\macular_0177.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1385.png|3
+D:\swin transformer3\soybean\macular\macular_2316.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0554.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1170.png|3
+D:\swin transformer3\soybean\macular\macular_2070.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1217.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1219.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0277.png|0
+D:\swin transformer3\soybean\macular\macular_2219.png|2
+D:\swin transformer3\soybean\macular\macular_1523.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0060.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1309.png|3
+D:\swin transformer3\soybean\healthy\healthy_0512.png|1
+D:\swin transformer3\soybean\healthy\healthy_0382.png|1
+D:\swin transformer3\soybean\healthy\healthy_0894.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0388.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1976.png|3
+D:\swin transformer3\soybean\healthy\healthy_0526.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1939.png|3
+D:\swin transformer3\soybean\macular\macular_0387.png|2
+D:\swin transformer3\soybean\macular\macular_1932.png|2
+D:\swin transformer3\soybean\healthy\healthy_0395.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1598.png|0
+D:\swin transformer3\soybean\macular\macular_0363.png|2
+D:\swin transformer3\soybean\healthy\healthy_0676.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1320.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1410.png|3
+D:\swin transformer3\soybean\macular\macular_0008.jpg|2
+D:\swin transformer3\soybean\macular\macular_1901.png|2
+D:\swin transformer3\soybean\macular\macular_2151.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0419.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0981.png|3
+D:\swin transformer3\soybean\macular\macular_1202.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0511.png|0
+D:\swin transformer3\soybean\macular\macular_1131.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0190.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1251.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0750.png|0
+D:\swin transformer3\soybean\macular\macular_2221.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1239.png|0
+D:\swin transformer3\soybean\macular\macular_0559.png|2
+D:\swin transformer3\soybean\macular\macular_2496.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1501.png|0
+D:\swin transformer3\soybean\healthy\healthy_0824.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1432.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1046.png|3
+D:\swin transformer3\soybean\healthy\healthy_0725.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0656.png|3
+D:\swin transformer3\soybean\macular\macular_1622.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0225.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0865.png|3
+D:\swin transformer3\soybean\macular\macular_1931.png|2
+D:\swin transformer3\soybean\healthy\healthy_0418.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0622.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1389.png|0
+D:\swin transformer3\soybean\macular\macular_2137.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0280.png|3
+D:\swin transformer3\soybean\macular\macular_0853.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1276.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0633.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0296.png|0
+D:\swin transformer3\soybean\macular\macular_0637.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1551.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1933.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1472.png|3
+D:\swin transformer3\soybean\macular\macular_2008.png|2
+D:\swin transformer3\soybean\healthy\healthy_0012.jpg|1
+D:\swin transformer3\soybean\macular\macular_2355.png|2
+D:\swin transformer3\soybean\macular\macular_0633.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1885.png|3
+D:\swin transformer3\soybean\macular\macular_0049.jpg|2
+D:\swin transformer3\soybean\grey spot\grey spot_0551.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1095.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0201.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1577.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0385.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1013.png|0
+D:\swin transformer3\soybean\macular\macular_1548.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1806.png|0
+D:\swin transformer3\soybean\macular\macular_1801.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1914.png|3
+D:\swin transformer3\soybean\macular\macular_1728.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1751.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1065.png|0
+D:\swin transformer3\soybean\healthy\healthy_0638.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1514.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1533.png|0
+D:\swin transformer3\soybean\macular\macular_0505.png|2
+D:\swin transformer3\soybean\macular\macular_0332.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0467.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0699.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1045.png|3
+D:\swin transformer3\soybean\macular\macular_1227.png|2
+D:\swin transformer3\soybean\macular\macular_1524.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1478.png|3
+D:\swin transformer3\soybean\healthy\healthy_0662.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1880.png|3
+D:\swin transformer3\soybean\macular\macular_0998.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0855.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0973.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0941.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1015.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0881.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1498.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0970.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1459.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0316.png|0
+D:\swin transformer3\soybean\healthy\healthy_0107.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1684.png|3
+D:\swin transformer3\soybean\healthy\healthy_0605.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0380.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0593.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1018.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1661.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0520.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1355.png|0
+D:\swin transformer3\soybean\macular\macular_1461.png|2
+D:\swin transformer3\soybean\healthy\healthy_0066.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0123.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1096.png|0
+D:\swin transformer3\soybean\healthy\healthy_0909.png|1
+D:\swin transformer3\soybean\healthy\healthy_0294.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0959.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1148.png|0
+D:\swin transformer3\soybean\macular\macular_1656.png|2
+D:\swin transformer3\soybean\healthy\healthy_0778.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1623.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2074.png|3
+D:\swin transformer3\soybean\macular\macular_1992.png|2
+D:\swin transformer3\soybean\macular\macular_0343.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1383.png|0
+D:\swin transformer3\soybean\macular\macular_2290.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0649.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1267.png|0
+D:\swin transformer3\soybean\macular\macular_2441.png|2
+D:\swin transformer3\soybean\macular\macular_2069.png|2
+D:\swin transformer3\soybean\macular\macular_1732.png|2
+D:\swin transformer3\soybean\healthy\healthy_0159.png|1
+D:\swin transformer3\soybean\macular\macular_0362.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0135.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0453.png|0
+D:\swin transformer3\soybean\healthy\healthy_0308.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0664.png|0
+D:\swin transformer3\soybean\macular\macular_0779.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0800.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1373.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1709.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0822.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0104.png|0
+D:\swin transformer3\soybean\macular\macular_1763.png|2
+D:\swin transformer3\soybean\macular\macular_1586.png|2
+D:\swin transformer3\soybean\macular\macular_2047.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0231.png|0
+D:\swin transformer3\soybean\healthy\healthy_0178.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1411.png|0
+D:\swin transformer3\soybean\macular\macular_0782.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1295.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0239.png|3
+D:\swin transformer3\soybean\macular\macular_2325.png|2
+D:\swin transformer3\soybean\macular\macular_2012.png|2
+D:\swin transformer3\soybean\macular\macular_0202.png|2
+D:\swin transformer3\soybean\macular\macular_1675.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1249.png|3
+D:\swin transformer3\soybean\macular\macular_1933.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0125.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1611.png|3
+D:\swin transformer3\soybean\healthy\healthy_0207.png|1
+D:\swin transformer3\soybean\healthy\healthy_0592.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1417.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0660.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1485.png|0
+D:\swin transformer3\soybean\healthy\healthy_0231.png|1
+D:\swin transformer3\soybean\healthy\healthy_0838.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0681.png|3
+D:\swin transformer3\soybean\macular\macular_0040.jpg|2
+D:\swin transformer3\soybean\healthy\healthy_0261.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1579.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0961.png|0
+D:\swin transformer3\soybean\macular\macular_2247.png|2
+D:\swin transformer3\soybean\macular\macular_1004.png|2
+D:\swin transformer3\soybean\macular\macular_1399.png|2
+D:\swin transformer3\soybean\healthy\healthy_0832.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0473.png|0
+D:\swin transformer3\soybean\macular\macular_0289.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0557.png|0
+D:\swin transformer3\soybean\macular\macular_1937.png|2
+D:\swin transformer3\soybean\healthy\healthy_0039.jpg|1
+D:\swin transformer3\soybean\macular\macular_0482.png|2
+D:\swin transformer3\soybean\healthy\healthy_0243.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1433.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1969.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1219.png|3
+D:\swin transformer3\soybean\macular\macular_0821.png|2
+D:\swin transformer3\soybean\macular\macular_1400.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0827.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1039.png|0
+D:\swin transformer3\soybean\healthy\healthy_0001.jpg|1
+D:\swin transformer3\soybean\healthy\healthy_0307.png|1
+D:\swin transformer3\soybean\macular\macular_2249.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1744.png|3
+D:\swin transformer3\soybean\healthy\healthy_0553.png|1
+D:\swin transformer3\soybean\macular\macular_1595.png|2
+D:\swin transformer3\soybean\macular\macular_2375.png|2
+D:\swin transformer3\soybean\macular\macular_0704.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1144.png|0
+D:\swin transformer3\soybean\healthy\healthy_0257.png|1
+D:\swin transformer3\soybean\macular\macular_1450.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0054.png|0
+D:\swin transformer3\soybean\macular\macular_1897.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1735.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0907.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1997.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0034.jpg|3
+D:\swin transformer3\soybean\grey spot\grey spot_0841.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1414.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1731.png|0
+D:\swin transformer3\soybean\healthy\healthy_0352.png|1
+D:\swin transformer3\soybean\macular\macular_0594.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1898.png|3
+D:\swin transformer3\soybean\macular\macular_1032.png|2
+D:\swin transformer3\soybean\macular\macular_1139.png|2
+D:\swin transformer3\soybean\macular\macular_1012.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1697.png|0
+D:\swin transformer3\soybean\macular\macular_0019.jpg|2
+D:\swin transformer3\soybean\macular\macular_0895.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1410.png|0
+D:\swin transformer3\soybean\healthy\healthy_0270.png|1
+D:\swin transformer3\soybean\macular\macular_0270.png|2
+D:\swin transformer3\soybean\healthy\healthy_0024.jpg|1
+D:\swin transformer3\soybean\mosaic\mosaic_1359.png|3
+D:\swin transformer3\soybean\macular\macular_0771.png|2
+D:\swin transformer3\soybean\healthy\healthy_0707.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1924.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0929.png|0
+D:\swin transformer3\soybean\macular\macular_0142.png|2
+D:\swin transformer3\soybean\macular\macular_1419.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0363.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0338.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1093.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1815.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1806.png|3
+D:\swin transformer3\soybean\healthy\healthy_0427.png|1
+D:\swin transformer3\soybean\healthy\healthy_0576.png|1
+D:\swin transformer3\soybean\macular\macular_0269.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0950.png|3
+D:\swin transformer3\soybean\macular\macular_0947.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0653.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1416.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1326.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0041.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1780.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1340.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0908.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1060.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0144.png|3
+D:\swin transformer3\soybean\healthy\healthy_0903.png|1
+D:\swin transformer3\soybean\macular\macular_1645.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0784.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1131.png|0
+D:\swin transformer3\soybean\macular\macular_2405.png|2
+D:\swin transformer3\soybean\macular\macular_0283.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1761.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0754.png|3
+D:\swin transformer3\soybean\healthy\healthy_0364.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1159.png|0
+D:\swin transformer3\soybean\healthy\healthy_0298.png|1
+D:\swin transformer3\soybean\healthy\healthy_0284.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0703.png|0
+D:\swin transformer3\soybean\macular\macular_0646.png|2
+D:\swin transformer3\soybean\healthy\healthy_0287.png|1
+D:\swin transformer3\soybean\healthy\healthy_0028.jpg|1
+D:\swin transformer3\soybean\macular\macular_0579.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1399.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1163.png|0
+D:\swin transformer3\soybean\macular\macular_1694.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0976.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0303.png|3
+D:\swin transformer3\soybean\macular\macular_0679.png|2
+D:\swin transformer3\soybean\macular\macular_0936.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0206.png|3
+D:\swin transformer3\soybean\macular\macular_0501.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1922.png|3
+D:\swin transformer3\soybean\macular\macular_0574.png|2
+D:\swin transformer3\soybean\macular\macular_1759.png|2
+D:\swin transformer3\soybean\macular\macular_0077.png|2
+D:\swin transformer3\soybean\healthy\healthy_0147.png|1
+D:\swin transformer3\soybean\macular\macular_1791.png|2
+D:\swin transformer3\soybean\macular\macular_1493.png|2
+D:\swin transformer3\soybean\macular\macular_0762.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1424.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0982.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1692.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1054.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1221.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1438.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1258.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1960.png|3
+D:\swin transformer3\soybean\macular\macular_2288.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1529.png|0
+D:\swin transformer3\soybean\healthy\healthy_0642.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0809.png|3
+D:\swin transformer3\soybean\macular\macular_2362.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0187.png|0
+D:\swin transformer3\soybean\healthy\healthy_0643.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0836.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0830.png|3
+D:\swin transformer3\soybean\macular\macular_0596.png|2
+D:\swin transformer3\soybean\healthy\healthy_0737.png|1
+D:\swin transformer3\soybean\healthy\healthy_0301.png|1
+D:\swin transformer3\soybean\healthy\healthy_0774.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0912.png|3
+D:\swin transformer3\soybean\healthy\healthy_0460.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1570.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0096.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1350.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1110.png|0
+D:\swin transformer3\soybean\macular\macular_1603.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1026.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1183.png|3
+D:\swin transformer3\soybean\macular\macular_1945.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1617.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1621.png|3
+D:\swin transformer3\soybean\macular\macular_1013.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0914.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0927.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1690.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0109.png|3
+D:\swin transformer3\soybean\macular\macular_2443.png|2
+D:\swin transformer3\soybean\macular\macular_2049.png|2
+D:\swin transformer3\soybean\macular\macular_2493.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1580.png|0
+D:\swin transformer3\soybean\macular\macular_0896.png|2
+D:\swin transformer3\soybean\macular\macular_1128.png|2
+D:\swin transformer3\soybean\macular\macular_2327.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1448.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0996.png|0
+D:\swin transformer3\soybean\macular\macular_2286.png|2
+D:\swin transformer3\soybean\healthy\healthy_0251.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1077.png|0
+D:\swin transformer3\soybean\macular\macular_1475.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1726.png|0
+D:\swin transformer3\soybean\macular\macular_2045.png|2
+D:\swin transformer3\soybean\macular\macular_2097.png|2
+D:\swin transformer3\soybean\macular\macular_1713.png|2
+D:\swin transformer3\soybean\healthy\healthy_0630.png|1
+D:\swin transformer3\soybean\macular\macular_1491.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1754.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1361.png|3
+D:\swin transformer3\soybean\healthy\healthy_0404.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0241.png|3
+D:\swin transformer3\soybean\macular\macular_2296.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0090.png|3
+D:\swin transformer3\soybean\macular\macular_0068.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1892.png|3
+D:\swin transformer3\soybean\macular\macular_2389.png|2
+D:\swin transformer3\soybean\macular\macular_1705.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1660.png|3
+D:\swin transformer3\soybean\macular\macular_1387.png|2
+D:\swin transformer3\soybean\macular\macular_1813.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0624.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0525.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0855.png|3
+D:\swin transformer3\soybean\macular\macular_2042.png|2
+D:\swin transformer3\soybean\macular\macular_2348.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0402.png|0
+D:\swin transformer3\soybean\macular\macular_1890.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0578.png|0
+D:\swin transformer3\soybean\healthy\healthy_0318.png|1
+D:\swin transformer3\soybean\macular\macular_0588.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0779.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1063.png|3
+D:\swin transformer3\soybean\macular\macular_1090.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1578.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0014.jpg|0
+D:\swin transformer3\soybean\healthy\healthy_0356.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0476.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1333.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0016.jpg|3
+D:\swin transformer3\soybean\mosaic\mosaic_1270.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1818.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1431.png|0
+D:\swin transformer3\soybean\macular\macular_1059.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0588.png|3
+D:\swin transformer3\soybean\macular\macular_0557.png|2
+D:\swin transformer3\soybean\macular\macular_2331.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1131.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0887.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0613.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1600.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1752.png|3
+D:\swin transformer3\soybean\macular\macular_0441.png|2
+D:\swin transformer3\soybean\healthy\healthy_0511.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0805.png|0
+D:\swin transformer3\soybean\macular\macular_0397.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1725.png|0
+D:\swin transformer3\soybean\macular\macular_1441.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1355.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0720.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0475.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0226.png|0
+D:\swin transformer3\soybean\macular\macular_1451.png|2
+D:\swin transformer3\soybean\healthy\healthy_0161.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1803.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0694.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0878.png|0
+D:\swin transformer3\soybean\macular\macular_1628.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1574.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0599.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0729.png|3
+D:\swin transformer3\soybean\macular\macular_1396.png|2
+D:\swin transformer3\soybean\macular\macular_1782.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1236.png|3
+D:\swin transformer3\soybean\macular\macular_2076.png|2
+D:\swin transformer3\soybean\macular\macular_1649.png|2
+D:\swin transformer3\soybean\macular\macular_2044.png|2
+D:\swin transformer3\soybean\macular\macular_1404.png|2
+D:\swin transformer3\soybean\macular\macular_1518.png|2
+D:\swin transformer3\soybean\macular\macular_1679.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_2143.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0973.png|3
+D:\swin transformer3\soybean\macular\macular_1788.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0092.png|0
+D:\swin transformer3\soybean\macular\macular_0533.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0804.png|3
+D:\swin transformer3\soybean\macular\macular_2270.png|2
+D:\swin transformer3\soybean\macular\macular_1155.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0230.png|0
+D:\swin transformer3\soybean\macular\macular_2222.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0165.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1526.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1634.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0872.png|0
+D:\swin transformer3\soybean\healthy\healthy_0165.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1154.png|0
+D:\swin transformer3\soybean\macular\macular_1137.png|2
+D:\swin transformer3\soybean\macular\macular_1916.png|2
+D:\swin transformer3\soybean\macular\macular_1108.png|2
+D:\swin transformer3\soybean\macular\macular_0910.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1685.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1425.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1828.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1695.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0797.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0116.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1152.png|3
+D:\swin transformer3\soybean\healthy\healthy_0035.jpg|1
+D:\swin transformer3\soybean\healthy\healthy_0293.png|1
+D:\swin transformer3\soybean\macular\macular_2320.png|2
+D:\swin transformer3\soybean\macular\macular_1349.png|2
+D:\swin transformer3\soybean\macular\macular_0476.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1409.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1187.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0892.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1261.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1102.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1123.png|0
+D:\swin transformer3\soybean\macular\macular_0247.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0263.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_2077.png|3
+D:\swin transformer3\soybean\macular\macular_1530.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0563.png|0
+D:\swin transformer3\soybean\macular\macular_1015.png|2
+D:\swin transformer3\soybean\macular\macular_2280.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0083.png|3
+D:\swin transformer3\soybean\macular\macular_1900.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0956.png|0
+D:\swin transformer3\soybean\healthy\healthy_0186.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0898.png|0
+D:\swin transformer3\soybean\healthy\healthy_0984.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0207.png|0
+D:\swin transformer3\soybean\macular\macular_1368.png|2
+D:\swin transformer3\soybean\healthy\healthy_0495.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1391.png|3
+D:\swin transformer3\soybean\macular\macular_1566.png|2
+D:\swin transformer3\soybean\macular\macular_1929.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0415.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1005.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0294.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0015.jpg|0
+D:\swin transformer3\soybean\healthy\healthy_0216.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1372.png|3
+D:\swin transformer3\soybean\macular\macular_1682.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0785.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0837.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1155.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0460.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0816.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_2065.png|3
+D:\swin transformer3\soybean\macular\macular_2234.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1712.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1523.png|0
+D:\swin transformer3\soybean\macular\macular_1939.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0012.jpg|3
+D:\swin transformer3\soybean\healthy\healthy_0567.png|1
+D:\swin transformer3\soybean\healthy\healthy_0002.jpg|1
+D:\swin transformer3\soybean\macular\macular_0629.png|2
+D:\swin transformer3\soybean\healthy\healthy_0014.jpg|1
+D:\swin transformer3\soybean\healthy\healthy_0303.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1893.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1174.png|3
+D:\swin transformer3\soybean\macular\macular_2466.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1401.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0788.png|3
+D:\swin transformer3\soybean\macular\macular_2259.png|2
+D:\swin transformer3\soybean\macular\macular_1980.png|2
+D:\swin transformer3\soybean\macular\macular_0126.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1483.png|0
+D:\swin transformer3\soybean\healthy\healthy_0950.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0201.png|0
+D:\swin transformer3\soybean\macular\macular_2267.png|2
+D:\swin transformer3\soybean\healthy\healthy_0010.jpg|1
+D:\swin transformer3\soybean\macular\macular_0393.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1968.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0871.png|0
+D:\swin transformer3\soybean\healthy\healthy_0384.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0038.png|0
+D:\swin transformer3\soybean\macular\macular_1186.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0280.png|0
+D:\swin transformer3\soybean\healthy\healthy_0924.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0151.png|0
+D:\swin transformer3\soybean\macular\macular_1578.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1476.png|3
+D:\swin transformer3\soybean\macular\macular_2528.png|2
+D:\swin transformer3\soybean\macular\macular_0485.png|2
+D:\swin transformer3\soybean\macular\macular_1867.png|2
+D:\swin transformer3\soybean\healthy\healthy_0623.png|1
+D:\swin transformer3\soybean\macular\macular_0977.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1312.png|3
+D:\swin transformer3\soybean\macular\macular_2275.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0076.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0647.png|0
+D:\swin transformer3\soybean\macular\macular_1409.png|2
+D:\swin transformer3\soybean\macular\macular_1793.png|2
+D:\swin transformer3\soybean\macular\macular_1784.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0801.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0541.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1427.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1153.png|0
+D:\swin transformer3\soybean\healthy\healthy_0504.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0162.png|3
+D:\swin transformer3\soybean\macular\macular_1081.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0505.png|3
+D:\swin transformer3\soybean\healthy\healthy_0689.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1439.png|0
+D:\swin transformer3\soybean\macular\macular_0892.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0616.png|3
+D:\swin transformer3\soybean\macular\macular_0527.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0641.png|0
+D:\swin transformer3\soybean\healthy\healthy_0828.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1074.png|3
+D:\swin transformer3\soybean\healthy\healthy_0719.png|1
+D:\swin transformer3\soybean\macular\macular_1448.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0978.png|3
+D:\swin transformer3\soybean\healthy\healthy_0757.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0251.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0601.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1580.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0281.png|3
+D:\swin transformer3\soybean\macular\macular_0124.png|2
+D:\swin transformer3\soybean\macular\macular_2209.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1888.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1521.png|0
+D:\swin transformer3\soybean\macular\macular_0059.png|2
+D:\swin transformer3\soybean\macular\macular_0420.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1706.png|0
+D:\swin transformer3\soybean\macular\macular_0360.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0661.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0957.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1535.png|0
+D:\swin transformer3\soybean\healthy\healthy_0381.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0628.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1265.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0344.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0490.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0534.png|3
+D:\swin transformer3\soybean\macular\macular_2037.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0035.jpg|0
+D:\swin transformer3\soybean\macular\macular_1940.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_2098.png|3
+D:\swin transformer3\soybean\healthy\healthy_0445.png|1
+D:\swin transformer3\soybean\macular\macular_1811.png|2
+D:\swin transformer3\soybean\macular\macular_2402.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0884.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1364.png|0
+D:\swin transformer3\soybean\healthy\healthy_0485.png|1
+D:\swin transformer3\soybean\macular\macular_1881.png|2
+D:\swin transformer3\soybean\healthy\healthy_0958.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0388.png|3
+D:\swin transformer3\soybean\healthy\healthy_0306.png|1
+D:\swin transformer3\soybean\healthy\healthy_0334.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0648.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1280.png|3
+D:\swin transformer3\soybean\macular\macular_0881.png|2
+D:\swin transformer3\soybean\macular\macular_0571.png|2
+D:\swin transformer3\soybean\macular\macular_1458.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0726.png|3
+D:\swin transformer3\soybean\macular\macular_1650.png|2
+D:\swin transformer3\soybean\macular\macular_0442.png|2
+D:\swin transformer3\soybean\healthy\healthy_0145.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_0314.png|3
+D:\swin transformer3\soybean\macular\macular_1699.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1631.png|0
+D:\swin transformer3\soybean\macular\macular_2190.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0457.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0916.png|3
+D:\swin transformer3\soybean\macular\macular_1462.png|2
+D:\swin transformer3\soybean\macular\macular_1936.png|2
+D:\swin transformer3\soybean\macular\macular_0840.png|2
+D:\swin transformer3\soybean\macular\macular_2435.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0692.png|3
+D:\swin transformer3\soybean\macular\macular_0602.png|2
+D:\swin transformer3\soybean\macular\macular_0884.png|2
+D:\swin transformer3\soybean\macular\macular_0727.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0610.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1335.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1322.png|0
+D:\swin transformer3\soybean\healthy\healthy_0740.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0646.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_2108.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1626.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1185.png|0
+D:\swin transformer3\soybean\macular\macular_0425.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0958.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1664.png|0
+D:\swin transformer3\soybean\healthy\healthy_0119.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1947.png|3
+D:\swin transformer3\soybean\macular\macular_0867.png|2
+D:\swin transformer3\soybean\macular\macular_2403.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0478.png|3
+D:\swin transformer3\soybean\macular\macular_2407.png|2
+D:\swin transformer3\soybean\healthy\healthy_0805.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1412.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1687.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1535.png|3
+D:\swin transformer3\soybean\macular\macular_0931.png|2
+D:\swin transformer3\soybean\macular\macular_0613.png|2
+D:\swin transformer3\soybean\macular\macular_1634.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1483.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1864.png|3
+D:\swin transformer3\soybean\healthy\healthy_0282.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0202.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1368.png|0
+D:\swin transformer3\soybean\macular\macular_1954.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1688.png|0
+D:\swin transformer3\soybean\macular\macular_1179.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0372.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2136.png|3
+D:\swin transformer3\soybean\macular\macular_1830.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1767.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1269.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1338.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1255.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0198.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1412.png|3
+D:\swin transformer3\soybean\macular\macular_0817.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1180.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0326.png|3
+D:\swin transformer3\soybean\macular\macular_0584.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1364.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0321.png|3
+D:\swin transformer3\soybean\macular\macular_2022.png|2
+D:\swin transformer3\soybean\macular\macular_0532.png|2
+D:\swin transformer3\soybean\macular\macular_1068.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1820.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0491.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1547.png|3
+D:\swin transformer3\soybean\macular\macular_1443.png|2
+D:\swin transformer3\soybean\macular\macular_1824.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1435.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0503.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1903.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0221.png|3
+D:\swin transformer3\soybean\healthy\healthy_0867.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1650.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0194.png|3
+D:\swin transformer3\soybean\macular\macular_1855.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1020.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1591.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1497.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_2071.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0242.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0831.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0811.png|3
+D:\swin transformer3\soybean\macular\macular_2439.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1877.png|3
+D:\swin transformer3\soybean\macular\macular_0661.png|2
+D:\swin transformer3\soybean\macular\macular_0259.png|2
+D:\swin transformer3\soybean\macular\macular_0598.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0699.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1405.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0714.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0131.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0663.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0376.png|3
+D:\swin transformer3\soybean\macular\macular_1853.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0171.png|3
+D:\swin transformer3\soybean\healthy\healthy_0683.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1841.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2018.png|3
+D:\swin transformer3\soybean\macular\macular_1636.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_2121.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1879.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1029.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1539.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1218.png|3
+D:\swin transformer3\soybean\macular\macular_0007.jpg|2
+D:\swin transformer3\soybean\macular\macular_0960.png|2
+D:\swin transformer3\soybean\macular\macular_2428.png|2
+D:\swin transformer3\soybean\macular\macular_0286.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0509.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_0123.png|3
+D:\swin transformer3\soybean\macular\macular_2461.png|2
+D:\swin transformer3\soybean\macular\macular_1403.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0331.png|0
+D:\swin transformer3\soybean\macular\macular_2244.png|2
+D:\swin transformer3\soybean\macular\macular_0986.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1610.png|0
+D:\swin transformer3\soybean\healthy\healthy_0100.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_2137.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0748.png|0
+D:\swin transformer3\soybean\healthy\healthy_0954.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1380.png|3
+D:\swin transformer3\soybean\healthy\healthy_0691.png|1
+D:\swin transformer3\soybean\macular\macular_1959.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1669.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1817.png|3
+D:\swin transformer3\soybean\macular\macular_1911.png|2
+D:\swin transformer3\soybean\macular\macular_1111.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0027.jpg|0
+D:\swin transformer3\soybean\mosaic\mosaic_1213.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0792.png|0
+D:\swin transformer3\soybean\macular\macular_0398.png|2
+D:\swin transformer3\soybean\healthy\healthy_0743.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1802.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0864.png|0
+D:\swin transformer3\soybean\healthy\healthy_0229.png|1
+D:\swin transformer3\soybean\macular\macular_1944.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1816.png|3
+D:\swin transformer3\soybean\macular\macular_1180.png|2
+D:\swin transformer3\soybean\macular\macular_2321.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_2058.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0522.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0253.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_2026.png|3
+D:\swin transformer3\soybean\healthy\healthy_0217.png|1
+D:\swin transformer3\soybean\healthy\healthy_0152.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_1338.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1184.png|0
+D:\swin transformer3\soybean\macular\macular_1532.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1541.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0224.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0004.jpg|3
+D:\swin transformer3\soybean\grey spot\grey spot_0684.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1625.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1620.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_1451.png|3
+D:\swin transformer3\soybean\macular\macular_1516.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1590.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1087.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_0764.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1585.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1571.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0730.png|0
+D:\swin transformer3\soybean\macular\macular_2330.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0960.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1786.png|3
+D:\swin transformer3\soybean\macular\macular_2020.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0291.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0524.png|3
+D:\swin transformer3\soybean\macular\macular_0132.png|2
+D:\swin transformer3\soybean\macular\macular_0447.png|2
+D:\swin transformer3\soybean\healthy\healthy_0223.png|1
+D:\swin transformer3\soybean\macular\macular_1847.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0587.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_0857.png|0
+D:\swin transformer3\soybean\grey spot\grey spot_1586.png|0
+D:\swin transformer3\soybean\macular\macular_2260.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0777.png|0
+D:\swin transformer3\soybean\healthy\healthy_0959.png|1
+D:\swin transformer3\soybean\mosaic\mosaic_1455.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1083.png|0
+D:\swin transformer3\soybean\healthy\healthy_0288.png|1
+D:\swin transformer3\soybean\grey spot\grey spot_0167.png|0
+D:\swin transformer3\soybean\macular\macular_1683.png|2
+D:\swin transformer3\soybean\macular\macular_0435.png|2
+D:\swin transformer3\soybean\macular\macular_0949.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_0682.png|0
+D:\swin transformer3\soybean\macular\macular_1716.png|2
+D:\swin transformer3\soybean\macular\macular_1367.png|2
+D:\swin transformer3\soybean\macular\macular_2104.png|2
+D:\swin transformer3\soybean\macular\macular_2071.png|2
+D:\swin transformer3\soybean\macular\macular_0190.png|2
+D:\swin transformer3\soybean\macular\macular_0375.png|2
+D:\swin transformer3\soybean\macular\macular_0139.png|2
+D:\swin transformer3\soybean\macular\macular_0268.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1628.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1745.png|3
+D:\swin transformer3\soybean\macular\macular_2262.png|2
+D:\swin transformer3\soybean\macular\macular_0154.png|2
+D:\swin transformer3\soybean\grey spot\grey spot_1605.png|0
+D:\swin transformer3\soybean\mosaic\mosaic_1030.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_2124.png|3
+D:\swin transformer3\soybean\grey spot\grey spot_1137.png|0
+D:\swin transformer3\soybean\macular\macular_2291.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_0591.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0796.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0508.png|3
+D:\swin transformer3\soybean\macular\macular_0914.png|2
+D:\swin transformer3\soybean\mosaic\mosaic_1199.png|3
+D:\swin transformer3\soybean\mosaic\mosaic_0892.png|3
+D:\swin transformer3\soybean\healthy\healthy_0497.png|1
+D:\swin transformer3\soybean\healthy\healthy_0955.png|1
